@@ -1,0 +1,2 @@
+2023-02-11 20:03:29,768:INFO:Initializing load_model()
+2023-02-11 20:03:29,768:INFO:load_model(model_name=../app/api_insurance, platform=None, authentication=None, verbose=True)
